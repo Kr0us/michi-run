@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Michi Run</string>
+    <string name="edition">CLUB DE GATITOS · VOL. 01</string>
+    <string name="tagline">Pequeños saltos. Grandes aventuras.</string>
+    <string name="offline_badge">SIN CONEXIÓN. SIN LÍMITES.</string>
+    <string name="choose_cat">Elige a tu compañero</string>
+    <string name="choose_hint">Seis personalidades. Las mismas ganas de correr.</string>
+    <string name="play">¡A correr!  →</string>
+    <string name="instructions_short">Toca para saltar · Mantén ↓ para agacharte</string>
+    <string name="footer">HECHO PARA JUGAR, DONDE SEA.</string>
+    <string name="best">RÉCORD</string>
+    <string name="score">PUNTOS</string>
+    <string name="settings">Ajustes</string>
+    <string name="settings_symbol" translatable="false">☰</string>
+    <string name="language">Idioma</string>
+    <string name="language_system">Idioma del dispositivo</string>
+    <string name="language_es" translatable="false">Español</string>
+    <string name="language_en" translatable="false">English</string>
+    <string name="sound">Sonidos del juego</string>
+    <string name="how_to">Cómo jugar</string>
+    <string name="how_to_body">Tu gatito corre solo. Toca la pista o SALTAR para evitar los cactus. Mantén pulsado AGACHARSE para pasar bajo los pájaros. Un toque corto hace un salto bajo; mantén para saltar más alto.\n\nLa velocidad aumenta con el tiempo. Si chocas, puedes volver a intentarlo. Tu récord y tu gatito se guardan en este dispositivo. Todas las razas tienen la misma velocidad y salto.\n\nPuedes jugar sin internet. Al salir de la aplicación, la partida queda en pausa.</string>
+    <string name="close">Cerrar</string>
+    <string name="siamese">Siamés</string>
+    <string name="gray">Gris</string>
+    <string name="persian">Persa</string>
+    <string name="orange">Atigrado</string>
+    <string name="tuxedo">Esmoquin</string>
+    <string name="calico">Calicó</string>
+    <string name="siamese_trait">Elegancia en cada salto</string>
+    <string name="gray_trait">Un pequeño rayo gris</string>
+    <string name="persian_trait">Una nube con patitas</string>
+    <string name="orange_trait">Energía sin fin</string>
+    <string name="tuxedo_trait">Siempre de punta en blanco</string>
+    <string name="calico_trait">Tres colores, mil aventuras</string>
+    <string name="selected_cat">%1$s, seleccionado</string>
+    <string name="select_cat">Elegir %1$s</string>
+    <string name="pause">Pausar</string>
+    <string name="paused">Un respiro.</string>
+    <string name="paused_hint">Tu aventura te espera.</string>
+    <string name="resume">Seguir corriendo  →</string>
+    <string name="home">Elegir otro gatito</string>
+    <string name="game_over">¡Otra vida, otro intento!</string>
+    <string name="game_over_hint">Hasta los gatos aterrizan mal a veces.</string>
+    <string name="retry">Volver a intentar  ↻</string>
+    <string name="new_best">¡NUEVO RÉCORD!</string>
+    <string name="jump">SALTAR  ↑</string>
+    <string name="duck">AGACHARSE  ↓</string>
+    <string name="game_hint">Toca la pista para saltar</string>
+    <string name="ready">¿Listo, michi?</string>
+    <string name="ready_hint">Toca para empezar</string>
+    <string name="game_field">Pista del juego. Toca para saltar.</string>
+    <string name="score_announcement">Puntos: %1$d. Récord: %2$d.</string>
+    <string name="pause_symbol" translatable="false">Ⅱ</string>
+    <string name="back_symbol" translatable="false">←</string>
+    <string name="home_description">Volver al inicio</string>
+</resources>
